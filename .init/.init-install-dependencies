@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/pingpong-playground-110746-436d06de/ping_pong_frontend"
+}
